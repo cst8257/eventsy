@@ -1,2 +1,4 @@
-# eventsy
-This repository contains the starter files for the Eventsy project.
+# Eventsy
+
+## Objective
+Add new features to the Eventsy web application. 
